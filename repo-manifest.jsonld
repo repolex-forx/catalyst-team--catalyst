@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/catalyst-team/catalyst/commit/e99f90655d0efcf22559a46e928f0f98c9807ebf",
       "git:hexsha": "e99f90655d0efcf22559a46e928f0f98c9807ebf",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v22.04"
     },
     {
